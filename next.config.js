@@ -5,3 +5,9 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+module.exports = {
+    images: {
+        domains: ['links.papareact.com','127.0.0.1','img.tmdb.org']
+    },
+}
+
